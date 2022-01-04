@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://p-lux2.pcloud.com/D4ZZbU5hpdZZZ6EX9i7Z2ZZdFRZkZZbVZzZTFZzJH3XZj2wBrRi1qfzr7D8yPzamHbkdgrxk/app.ipa</string>
+					<string>https://nicnocquee.github.io/simple/OpenTraceSample.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://p-lux2.pcloud.com/D4ZZbU5hpdZZZ6EX9i7Z2ZZdFRZkZZbVZzZTFZzJH3XZj2wBrRi1qfzr7D8yPzamHbkdgrxk/app.png</string>
+					<string>https://nicnocquee.github.io/simple/OpenTraceSample.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://p-lux2.pcloud.com/D4ZZbU5hpdZZZ6EX9i7Z2ZZdFRZkZZbVZzZTFZzJH3XZj2wBrRi1qfzr7D8yPzamHbkdgrxk/app2.png</string>
+					<string>https://nicnocquee.github.io/simple/OpenTraceSample2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>

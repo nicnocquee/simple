@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/app.ipa</string>
+		<string>https://nicnocquee.github.io/simple/OpenTraceSample.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://github.com/app.png</string>
+		<string>https://nicnocquee.github.io/simple/OpenTraceSample.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://github.com/app2.png</string>
+		<string>https://nicnocquee.github.io/simple/OpenTraceSample2.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
