@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OpenTraceSample.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4AAF2DC029CEB34B0B72A4516C4443EE7DD66DEF</string>
+				<key>dateExpires</key>
+				<string>29.01.22</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>NNTV3ZQR3E.tech.hyperjump.OpenTraceSample</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>NNTV3ZQR3E</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>NNTV3ZQR3E.tech.hyperjump.OpenTraceSample</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>OpenTraceSample.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b3841198-e50a-434e-a7a9-3b542bd4369d</string>
+				<key>dateExpires</key>
+				<string>29.01.22</string>
+				<key>name</key>
+				<string>OpenTraceSampleAdhoc</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>NNTV3ZQR3E</string>
+				<key>name</key>
+				<string>nico prananta</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
