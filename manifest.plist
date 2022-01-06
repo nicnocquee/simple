@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://nicnocquee.github.io/simple/OpenTraceSample.ipa</string>
+					<string>https://nicnocquee.github.io/simple/HyperTraceSample.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>tech.hyperjump.OpenTraceSample</string>
+				<string>tech.hyperjump.HyperTraceSample</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>OpenTraceSample</string>
+				<string>HyperTraceSample</string>
 			</dict>
 		</dict>
 	</array>
