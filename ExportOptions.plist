@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://nicnocquee.github.io/simple/OpenTraceSample.ipa</string>
+		<string>https://nicnocquee.github.io/simple/HyperTraceSample.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://nicnocquee.github.io/simple/OpenTraceSample.png</string>
 		<key>fullSizeImageURL</key>
@@ -19,8 +19,8 @@
 	<string>ad-hoc</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>tech.hyperjump.OpenTraceSample</key>
-		<string>OpenTraceSampleAdhoc</string>
+		<key>tech.hyperjump.HyperTraceSample</key>
+		<string>HyperTrace Sample Adhoc</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>Apple Distribution</string>

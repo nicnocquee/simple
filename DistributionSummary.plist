@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>OpenTraceSample.ipa</key>
+	<key>HyperTraceSample.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
@@ -23,26 +23,26 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>NNTV3ZQR3E.tech.hyperjump.OpenTraceSample</string>
+				<string>32C74H6WSX.tech.hyperjump.HyperTraceSample</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>NNTV3ZQR3E</string>
 				<key>get-task-allow</key>
 				<false/>
 				<key>keychain-access-groups</key>
 				<array>
-					<string>NNTV3ZQR3E.tech.hyperjump.OpenTraceSample</string>
+					<string>32C74H6WSX.tech.hyperjump.HyperTraceSample</string>
 				</array>
 			</dict>
 			<key>name</key>
-			<string>OpenTraceSample.app</string>
+			<string>HyperTraceSample.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>b3841198-e50a-434e-a7a9-3b542bd4369d</string>
+				<string>4fdb5f37-c020-4e07-ba73-e277828b0902</string>
 				<key>dateExpires</key>
 				<string>29.01.22</string>
 				<key>name</key>
-				<string>OpenTraceSampleAdhoc</string>
+				<string>HyperTrace Sample Adhoc</string>
 			</dict>
 			<key>team</key>
 			<dict>
